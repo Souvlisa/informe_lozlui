@@ -1,5 +1,7 @@
 # Resumen Ejecutivo: Hackeo Masivo a Yahoo (3 Mil Millones de Usuarios)
 
+<div style="text-align: justify;">
+
 **Basado en el reporte de The New York Times (3 de octubre de 2017)**
 
 A continuación, se presenta un resumen ejecutivo del histórico caso de vulneración de datos de Yahoo, considerado el mayor ciberataque de la historia en términos de volumen de cuentas afectadas.
@@ -24,3 +26,5 @@ Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extraje
 * **Impacto financiero corporativo:** Las revelaciones de estos hackeos provocaron que Verizon renegociara los términos de adquisición, reduciendo el precio de compra final de los activos de Yahoo en **350 millones de dólares** (cerrando el trato en aproximadamente 4.480 millones de dólares).
 * **Daño reputacional, legal y regulatorio:** Yahoo enfrentó decenas de demandas colectivas por parte de usuarios y accionistas, el escrutinio del Congreso de los Estados Unidos y un daño irreparable a la confianza en su marca.
 * **Riesgo masivo para los usuarios:** La revelación final obligó a la compañía a enviar notificaciones de seguridad a otros 2.000 millones de usuarios que no habían sido alertados en 2016. Tuvieron que exigir cambios de contraseñas masivos, invalidar las preguntas de seguridad sin cifrar y los usuarios quedaron expuestos a fraudes y robo de identidad en otras plataformas si utilizaban las mismas contraseñas en múltiples sitios.
+
+</div>
