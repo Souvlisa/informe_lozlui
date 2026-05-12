@@ -1,0 +1,1 @@
+En este caso no se cumplio el marco de gdpr porque no aseguro la integridad ni la confidencialidad de los datos de los usuarios, ademas no cumple con el fundamento numero 7 de responsabilidad afectada ya que se afecto el punto numero 6
