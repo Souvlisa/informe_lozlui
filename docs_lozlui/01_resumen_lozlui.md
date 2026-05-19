@@ -4,7 +4,7 @@
 
 **Basado en el reporte de The New York Times (3 de octubre de 2017)**
 
-A continuación, se presenta un resumen ejecutivo del histórico caso de vulneración de datos de Yahoo, considerado el mayor ciberataque de la historia en términos de volumen de cuentas afectadas.
+A continuación, se presenta un resumen del histórico caso de vulneración de datos de Yahoo, considerado el mayor ciberataque de la historia en términos de volumen de cuentas afectadas.
 
 ## 1. ¿Qué pasó?
 Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extrajeron información personal de sus bases de datos. Los datos robados incluían nombres, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas (cifradas/con *hash*) y, en algunos casos, preguntas y respuestas de seguridad (tanto cifradas como sin cifrar). Según la compañía, la información comprometida no incluía contraseñas en texto claro, datos de tarjetas de crédito ni información de cuentas bancarias.
