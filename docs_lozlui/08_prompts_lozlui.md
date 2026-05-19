@@ -7,3 +7,6 @@ prompt para generar el resumen: Extrae la información de este link: https://www
 
 prompt chat copilot github para modificacion de aplicación web con visuales: 
 1.-Modifica el archivo App.jsx con la información de la carpeta docs_lozlui para hacer una página web con react vite tipo informe para los visuales utiliza tailwind 
+
+
+prompt gemini para leyes de ciberseguridad: En relación con normas de ciberseguridad internacionales, que leyes y regulaciones se pueden aplicar en este caso
