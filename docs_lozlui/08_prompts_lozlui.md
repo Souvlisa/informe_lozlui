@@ -10,3 +10,5 @@ prompt chat copilot github para modificacion de aplicación web con visuales:
 
 
 prompt gemini para leyes de ciberseguridad: En relación con normas de ciberseguridad internacionales, que leyes y regulaciones se pueden aplicar en este caso
+
+prompt para marcos normativos: En relación con el caso, que marcos normativos nacionales e internacionales aplican, explica por que y además justifica con referencia textual a un hecho concreto del caso con la información proporcionada, la información debe ser sacada de fuentes confiables y reales con link incluido
