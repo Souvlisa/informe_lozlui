@@ -1,3 +1,6 @@
+# Comparación de marcos regulatorios por industria
+
+
 | Marco Regulatorio (Industria) | Sujeto Regulado | Alcance Principal | Sanciones Máximas | Aplicabilidad al Caso Yahoo |
 | :--- | :--- | :--- | :--- | :--- |
 | **Normativa SEC**<br>*(Mercado de Valores / Finanzas)* | Empresas de capital abierto (públicas) que cotizan en la bolsa de Estados Unidos. | Protección a inversores exigiendo la divulgación transparente y oportuna de riesgos e incidentes cibernéticos materiales. | Multas civiles millonarias dictadas por reguladores financieros. | **Sí aplica**. Yahoo recibió una multa de 35 millones de dólares por ocultar el hackeo masivo a sus inversores y a la compradora Verizon. |
