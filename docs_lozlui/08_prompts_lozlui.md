@@ -12,3 +12,7 @@ prompt chat copilot github para modificacion de aplicación web con visuales:
 prompt gemini para leyes de ciberseguridad: En relación con normas de ciberseguridad internacionales, que leyes y regulaciones se pueden aplicar en este caso
 
 prompt para marcos normativos: En relación con el caso, que marcos normativos nacionales e internacionales aplican, explica por que y además justifica con referencia textual a un hecho concreto del caso con la información proporcionada, la información debe ser sacada de fuentes confiables y reales con link incluido
+
+prompt para delitos: Que articulos aplican a este caso de la ley 21459 de delitos informaticos en chile y mapea cada acción del atacante del atacante al articulo correspondiente. Algunos articulos que relacione fueron el 2 y el 7.
+
+prompt para cuadro comparativo: Haz una tabla comparativa en formato markdown con 3 marcos regulatorios por industria y 3 ejes (p. ej. alcance, sanción, sujeto regulado, jurisdicción). Incluye columna explícita de aplicabilidad al caso.

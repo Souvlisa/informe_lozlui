@@ -1,13 +1,45 @@
-Marco legal de la ciberseguridad 
+Tipificación de delitos informáticos (Ley 21.459)
 
-Las leyes de ciberseguridad son importantes cuando se comete un delito informatico, como es en este caso y al realizar un analisis segun el marco legal chileno podemos encontrar la ley 21459 que cuenta con articulos ideales para este caso, los cuales son:
+Aunque la actual Ley 21.459 sobre Delitos Informáticos no tiene efecto retroactivo ni jurisdicción sobre los servidores de Yahoo vulnerados en 2013, este caso histórico proporciona un escenario ideal para un ejercicio de análisis práctico. A continuación, examinaremos cómo se tipificarían hoy en día las acciones de los ciberdelincuentes si un ataque de esta naturaleza ocurriera contra infraestructura en Chile, mapeando cada fase del hackeo con los artículos específicos de nuestro marco penal moderno.
 
-1. Articulo 2 que habla sobre el acceso ilicito, ya que los ciberdelincuentes son personas externas a la empresa de yahoo y por ende no cuentan con autorización para acceder a la base de datos vulnerando los mecanismos de seguridad con los que cuenta
+Mapeo de acciones del atacante siguiendo la ley 21459
 
-2. articulo 7 fraude informatico que habla sobre la manipulacion de un sistema informatico para obtener un beneficio economico ilicito ya que el ataque fue mediante tecnicas de pishing
+1. Infintración a la red interna
 
-3. Ya que la empresa no informo a los inversionistas lo sucedido, fue sancionada por la violacion de leyes federales de valores, de acuerdo con las leyes de estados unidos de la comision de bolsa y valores, se aplico Securities Exchange Act de 1934: Se aplicó específicamente la Regla 13a-15(a), que exige a las empresas mantener y evaluar controles y procedimientos de divulgación efectivos. Yahoo falló al no tener un sistema que permitiera a la gerencia evaluar la necesidad de reportar el hackeo.
+Los atacantes engañan a los empleados mediante pishing o explotan vulnerabilidades para entrar en los servidores privados de la compañía.
 
-4. Reino Unido (Aplicación Nacional) La Oficina del Comisionado de Información del Reino Unido (ICO) llevó a cabo su propia investigación por los usuarios británicos afectados y multó a Yahoo UK Services Ltd con £250,000 libras (la máxima multa posible bajo el régimen antiguo era de £500,000).
+Justificación y Aplicación Legal
 
-UK Data Protection Act de 1998: La ICO dictaminó que Yahoo violó el Séptimo Principio de Protección de Datos, contenido en la Sección 4(4) y detallado en el Anexo 1 de dicha ley. Este principio estipulaba que "se deben tomar medidas técnicas y organizativas apropiadas contra el procesamiento no autorizado o ilegal de datos personales". La ICO concluyó que Yahoo no aseguró que las credenciales de los empleados estuvieran protegidas y no monitorizó adecuadamente el acceso a los datos de los usuarios.
+Según el articulo 2 sobre el acceso ilícito sanciona al que "acceda a un sistema informático" sin autorización o excediendo la autorización que posea. La mera entrada no autorizada a los servidores de Yahoo ya consuma este delito.
+
+2. Descarga y robo de la base de datos
+
+Una vez dentro, los atacantes no solo observan, sino que extraen, copian y se llevan los registros de 3.000 millones de cuentas (nombres, correos, contraseñas cifradas).
+
+Justificación y Aplicación Legal
+
+Siguiendo con el articulo 2, la ley chilena agrava (aumenta) la pena del acceso ilícito si este se realiza con el "ánimo de apoderarse, usar o conocer la información" contenida en el sistema. La exfiltración masiva de datos configura esta agravante.
+
+3. Venta de los datos en la Dark Web
+
+Los atacantes originales, o terceros asociados, pusieron a la venta esta inmensa base de datos al mejor postor en foros clandestinos.
+
+Justificación y Aplicación Legal
+
+En esta parte aplica el articulo 6 sobre receptación de datos informaticos que castiga a quien, conociendo su origen ilícito, "comercialice, transfiera o almacene" datos informáticos provenientes de los delitos de la ley. Aplica tanto a los atacantes que venden los datos como a los ciberdelincuentes que los compran para almacenarlos en compilaciones.
+
+4. Uso de las cuentas para estafas o robos
+
+Los atacantes utilizaron las contraseñas descifradas o la información personal robada para acceder a cuentas bancarias de los usuarios, cometer fraudes o realizar campañas de spear phishing.
+
+Justificación y Aplicación Legal
+
+En esta parte aplica el articulo 7 sobre fraude informatico que sanciona a quien, superando barreras de seguridad o manipulando datos, cause un "perjuicio a otro con la finalidad de obtener un beneficio económico ilícito".
+
+5. Creación de accesos sin contraseña
+
+Los atacantes lograron falsificar cookies de sesión web que les permitían entrar a las cuentas de los usuarios sin necesidad de escribir la contraseña.
+
+Justificación y Aplicación Legal
+
+En esta parte aplica el articulo 5 sobre falsificación informatica que sanciona a quien "introduzca, altere, dañe o suprima datos informáticos con la intención de que sean tomados como auténticos". Al crear cookies falsas para engañar al sistema de autenticación de Yahoo, los atacantes cometieron falsificación informática.
