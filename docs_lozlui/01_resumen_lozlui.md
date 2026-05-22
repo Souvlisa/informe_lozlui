@@ -1,20 +1,26 @@
-# Resumen Ejecutivo: Hackeo Masivo a Yahoo (3 Mil Millones de Usuarios)
+
 
 <div style="text-align: justify;">
+
+# Resumen: Hackeo Masivo a Yahoo (3 Mil Millones de Usuarios)<br>
 
 **Basado en el reporte de The New York Times (3 de octubre de 2017)**
 
 A continuación, se presenta un resumen del histórico caso de vulneración de datos de Yahoo, considerado el mayor ciberataque de la historia en términos de volumen de cuentas afectadas.
 
 ## 1. ¿Qué pasó?
+<br>
+
 Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extrajeron información personal de sus bases de datos. Los datos robados incluían nombres, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas (cifradas/con *hash*) y, en algunos casos, preguntas y respuestas de seguridad (tanto cifradas como sin cifrar). Según la compañía, la información comprometida no incluía contraseñas en texto claro, datos de tarjetas de crédito ni información de cuentas bancarias.
 
 ## 2. ¿Cuándo pasó?
+
 * **Ocurrencia del ataque:** El ciberataque se llevó a cabo originalmente en **agosto de 2013**.
 * **Primera revelación (Diciembre de 2016):** Yahoo admitió inicialmente que la brecha había afectado a la cifra récord de 1.000 millones de cuentas.
 * **Revelación final (3 de octubre de 2017):** Tras nuevas investigaciones de expertos forenses, llevadas a cabo luego de la adquisición por parte de Verizon, se descubrió y anunció públicamente que el impacto fue mucho mayor: afectó a la totalidad de las cuentas de Yahoo existentes en ese momento, es decir, **3.000 millones de cuentas**.
 
 ## 3. ¿Quiénes participaron?
+
 * **Afectados:** Los 3.000 millones de usuarios que poseían cuentas de Yahoo alrededor del mundo.
 * **Atacantes:** Ciberdelincuentes (aunque Yahoo no señaló a un actor estatal específico para esta filtración de 2013 en su anuncio de 2017, la empresa había enfrentado otros ataques en 2014 orquestados por hackers respaldados por el estado ruso).
 * **Organizaciones involucradas:** * **Yahoo:** La empresa directamente vulnerada, bajo el liderazgo de Marissa Mayer en la época de la divulgación.
