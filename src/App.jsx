@@ -14,12 +14,12 @@ import Prompts from './components/Prompts'
 
 function App() {
   const sections = [
-    { key: 'resumen', label: 'Resumen', component: Resumen },
-    { key: 'marco', label: 'Marco', component: Marco },
-    { key: 'delitos', label: 'Delitos', component: Delitos },
-    { key: 'comparacion', label: 'Comparación', component: Comparacion },
-    { key: 'responsabilidades', label: 'Responsabilidades', component: Responsabilidades },
-    { key: 'datos', label: 'Datos', component: Datos },
+    { key: 'resumen', label: 'Resumen del caso', component: Resumen },
+    { key: 'marco', label: 'Marco normativo', component: Marco },
+    { key: 'delitos', label: 'Tipificación de delitos', component: Delitos },
+    { key: 'comparacion', label: 'Comparación regulatoria', component: Comparacion },
+    { key: 'responsabilidades', label: 'Responsabilidades legales', component: Responsabilidades },
+    { key: 'datos', label: 'Tratamiento de datos', component: Datos },
     { key: 'conclusiones', label: 'Conclusiones', component: Conclusiones },
     { key: 'prompts', label: 'Prompts', component: Prompts },
   ]

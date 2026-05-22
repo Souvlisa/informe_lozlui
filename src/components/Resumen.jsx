@@ -8,7 +8,7 @@ export default function Resumen() {
     <section className="max-w-3xl mx-auto p-6">
       <header className="flex items-center gap-3 mb-4">
         <FileText className="w-6 h-6 text-indigo-600" />
-        <h1 className="text-2xl font-bold">Resumen</h1>
+        <h1 className="text-2xl font-bold">Resumen del caso</h1>
       </header>
       <MarkdownRenderer content={md} />
     </section>

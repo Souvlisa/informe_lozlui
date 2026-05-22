@@ -8,7 +8,7 @@ export default function Delitos() {
     <section className="max-w-3xl mx-auto p-6">
       <header className="flex items-center gap-3 mb-4">
         <FileText className="w-6 h-6 text-indigo-600" />
-        <h1 className="text-2xl font-bold">Delitos</h1>
+        <h1 className="text-2xl font-bold">Tipificación de delitos</h1>
       </header>
       <MarkdownRenderer content={md} />
     </section>
