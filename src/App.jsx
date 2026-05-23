@@ -61,7 +61,7 @@ function App() {
 
       <footer className="bg-slate-100 text-slate-600 text-sm py-4 px-6">
         <div className="max-w-4xl mx-auto flex justify-between">
-          <span>Estudiante: Luisangeli Lozada</span>
+          <span>Desarrollado por: Luisangeli Lozada</span>
           <span>Docente: Rubén Schnettler L. - INACAP Valparaíso</span>
         </div>
       </footer>
