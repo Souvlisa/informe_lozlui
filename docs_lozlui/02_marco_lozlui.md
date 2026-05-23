@@ -36,11 +36,9 @@ El registro oficial de sanciones de la ICO establece textualmente:
 
 ## 3. Marco Nacional: Chile
 
-Si bien los ciberdelincuentes atacaron una red global que probablemente afectó a ciudadanos chilenos que tenían correos "@yahoo.cl" o "@yahoo.com", el marco normativo chileno no tuvo aplicación práctica ni sancionatoria contra la empresa en este caso. Esto se debe al principio de territorialidad de la ley penal y civil chilena: los tribunales chilenos carecían de jurisdicción directa para sancionar a la matriz estadounidense por vulneraciones a servidores ubicados en Norteamérica.
+Si un caso idéntico (un robo masivo de bases de datos por falta de medidas de seguridad y ocultamiento de la información) ocurriera contra una empresa domiciliada en Chile en la fecha de los hechos (2013-2016), se habrían aplicado las siguientes normativas antiguas:
 
-Sin embargo, si un caso idéntico (un robo masivo de bases de datos por falta de medidas de seguridad y ocultamiento de la información) ocurriera contra una empresa domiciliada en Chile en la fecha de los hechos (2013-2016), se habrían aplicado las siguientes normativas antiguas:
-
-* **Ley 19.628 sobre Protección de la Vida Privada:** Era la ley vigente (y que actualmente se encuentra en proceso final de actualización para homologarse a estándares europeos) que regulaba el tratamiento de datos personales, aunque en esa época carecía de una agencia fiscalizadora fuerte que pudiera imponer multas millonarias similares a las de la SEC o la ICO.
+* **Ley 19.628 sobre Protección de la Vida Privada:** Era la ley vigente que regulaba el tratamiento de datos personales, aunque en esa época carecía de una agencia fiscalizadora fuerte que pudiera imponer multas millonarias similares a las de la SEC o la ICO.
 
 * **Ley 19.223 (Antigua Ley de Delitos Informáticos):** Promulgada en 1993, habría sancionado a los atacantes (si hubiesen sido identificados en territorio nacional) por espionaje informático o destrucción de datos, pero no castigaba a la empresa por su negligencia en resguardarlos.
 

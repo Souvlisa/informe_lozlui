@@ -10,7 +10,7 @@ A continuación, se presenta un resumen del histórico caso de vulneración de d
 
 ## 1. ¿Qué pasó?
 
-Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extrajeron información personal de sus bases de datos. Los datos robados incluían nombres, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas (cifradas/con *hash*) y, en algunos casos, preguntas y respuestas de seguridad (tanto cifradas como sin cifrar). Según la compañía, la información comprometida no incluía contraseñas en texto claro, datos de tarjetas de crédito ni información de cuentas bancarias.
+Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extrajeron información personal de sus bases de datos. Los datos robados incluían nombres, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas (cifradas/con *hash*). Según la compañía, la información comprometida no incluía contraseñas en texto claro, datos de tarjetas de crédito ni información de cuentas bancarias.
 
 ## 2. ¿Cuándo pasó?
 
@@ -28,7 +28,7 @@ Yahoo sufrió una brecha de seguridad masiva en la que ciberdelincuentes extraje
 
 ## 4. ¿Cuál fue el impacto que tuvo?
 * **El mayor hackeo de la historia:** Estableció un precedente sin igual, convirtiéndose en la filtración de datos más masiva documentada, evidenciando graves debilidades en la ciberseguridad a nivel corporativo.
-* **Impacto financiero corporativo:** Las revelaciones de estos hackeos provocaron que Verizon renegociara los términos de adquisición, reduciendo el precio de compra final de los activos de Yahoo en **350 millones de dólares** (cerrando el trato en aproximadamente 4.480 millones de dólares).
+* **Impacto financiero corporativo:** Las revelaciones de estos hackeos provocaron que Verizon renegociara los términos de adquisición, reduciendo el precio de compra final de los activos de Yahoo en **350 millones de dólares**.
 * **Daño reputacional, legal y regulatorio:** Yahoo enfrentó decenas de demandas colectivas por parte de usuarios y accionistas, el escrutinio del Congreso de los Estados Unidos y un daño irreparable a la confianza en su marca.
 * **Riesgo masivo para los usuarios:** La revelación final obligó a la compañía a enviar notificaciones de seguridad a otros 2.000 millones de usuarios que no habían sido alertados en 2016. Tuvieron que exigir cambios de contraseñas masivos, invalidar las preguntas de seguridad sin cifrar y los usuarios quedaron expuestos a fraudes y robo de identidad en otras plataformas si utilizaban las mismas contraseñas en múltiples sitios.
 

@@ -14,7 +14,7 @@ En el hackeo masivo a Yahoo, se vieron comprometidos diversos tipos de informaci
 
 **Distinción legal según la Ley 19.628 (Chile):**
 
-*   **Datos Personales:** Toda la información filtrada mencionada anteriormente (nombres, correos, fechas de nacimiento) clasifica estrictamente como "datos personales", ya que la ley los define como "los relativos a cualquier información concerniente a personas naturales, identificadas o identificables".
+*   **Datos Personales:** Toda la información filtrada mencionada anteriormente clasifica estrictamente como "datos personales", ya que la ley los define como "los relativos a cualquier información concerniente a personas naturales, identificadas o identificables".
 *   **Datos Sensibles:** Según la ley chilena, los datos sensibles son aquellos "que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad, tales como los hábitos personales, el origen racial, las ideologías y opiniones políticas, las creencias o convicciones religiosas, los estados de salud físicos o psíquicos y la vida sexual".
 *   **Análisis del caso:** En principio, el ataque a Yahoo no expuso datos sensibles *per se*, sino datos personales y credenciales de acceso. Sin embargo, si un usuario utilizó información íntima (como un diagnóstico médico o una creencia religiosa) dentro de una "pregunta de seguridad personalizada" que no estaba cifrada, ese dato sensible específico quedó expuesto.
 

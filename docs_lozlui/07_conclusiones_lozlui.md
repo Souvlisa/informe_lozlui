@@ -8,7 +8,7 @@ El desastre de Yahoo dejó lecciones técnicas y corporativas críticas. Para ev
 
 1. **Auditoría estricta en migraciones y sistemas heredados (Legacy):** El error inicial de Yahoo con la adquisición de Yahoo Voices demuestra que nunca se deben integrar bases de datos antiguas o externas a un sistema central sin antes refactorizar, limpiar y auditar su seguridad. Las vulnerabilidades heredadas son puertas traseras silenciosas.
 
-2. **Cifrado integral y hashing moderno:** Almacenar datos críticos (como preguntas de seguridad) en texto plano es inaceptable. Se deben utilizar algoritmos de *hashing* robustos y modernos (como bcrypt, Argon2 o SHA-256 con *salts* únicos) para contraseñas y cualquier mecanismo de recuperación de cuentas, asegurando que la información sea ilegible si la base de datos es extraída.
+2. **Cifrado integral y hashing moderno:** Almacenar datos críticos (como preguntas de seguridad) en texto plano es inaceptable. Se deben utilizar algoritmos de *hashing* robustos y modernos (como bcrypt) para contraseñas y cualquier mecanismo de recuperación de cuentas, asegurando que la información sea ilegible si la base de datos es extraída.
 
 3. **Implementación de Autenticación Multifactor (MFA):** Para mitigar el impacto del *phishing* y el robo masivo de credenciales, los sistemas web deben exigir por defecto una segunda capa de validación (MFA o 2FA) que no dependa exclusivamente de una contraseña estática.
 
