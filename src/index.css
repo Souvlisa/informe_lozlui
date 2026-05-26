@@ -107,3 +107,17 @@ h1, h2, h3, h4, h5, h6 {
 .markdown-content em {
   @apply italic text-slate-800;
 }
+
+/* Prompts page: make each top-level list item a card and hide plain <hr> separators */
+.prompts-content .markdown-content ul > li {
+  @apply bg-white/60 border border-slate-100 rounded-lg p-4 mb-4 shadow-sm;
+}
+
+.prompts-content .markdown-content hr {
+  @apply hidden;
+}
+
+/* Improve visibility for Prompt label inside the card */
+.prompts-content .markdown-content strong {
+  @apply text-slate-900;
+}

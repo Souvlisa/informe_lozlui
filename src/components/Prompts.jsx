@@ -10,7 +10,9 @@ export default function Prompts() {
         <FileText className="w-6 h-6 text-indigo-600" />
         <h1 className="text-2xl font-bold">Prompts</h1>
       </header>
-      <MarkdownRenderer content={md} />
+      <div className="prompts-content">
+        <MarkdownRenderer content={md} />
+      </div>
     </section>
   )
 }
