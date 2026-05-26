@@ -62,13 +62,6 @@ Consejo: si usas PowerShell y ves un error sobre políticas de ejecución, ejecu
 - `src/index.css` — estilos globales y utilidades Tailwind.
 - `index.html` — plantilla HTML que carga Google Fonts y el bundle.
 
----
 
-## Notas y recomendaciones
 
-- Para pruebas en dispositivos móviles usa las herramientas de DevTools (Device Toolbar) o abre el servidor desde tu red local usando `npm run dev -- --host`.
-- Si planeas publicar, revisa `package.json` y ajusta `build` y `preview` según tu hosting.
 
----
-
-¿Quieres que genere una versión en PDF del informe o que agregue un tema oscuro opcional? Si quieres, puedo también resumir el contenido de cada `.md` y añadir enlaces rápidos en el README.
