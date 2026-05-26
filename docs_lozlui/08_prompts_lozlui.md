@@ -1,5 +1,7 @@
 # Bitácora de Prompts Utilizados
 
+<div style="text-align:justify;">
+
 A continuación se detalla la lista de prompts utilizados a lo largo del proyecto, junto con el contexto de su uso y las modificaciones realizadas sobre las respuestas generadas por la IA:
 
 *   **Prompt:** *"Dame ejemplos de casos reales en todo el mundo sobre ciberseguridad: incidentes nacionales o internacionales (por ejemplo, brechas de datos, ransomware a empresas, fraudes informáticos, filtraciones masivas). Además añade un link para buscar la información, debe ser una fuente confiable"*
@@ -46,3 +48,5 @@ A continuación se detalla la lista de prompts utilizados a lo largo del proyect
 
 *   **Prompt:** *"Quiero que al correr la página se visualicen los saltos de linea correctamente luego de los titulos y que el texto no se vea tan pegado sin usar tanto <br> para hacer los saltos"*
     *   **Contexto de uso:** Este prompt fue utilizado en el chat GitHub Copilot integrado en VS Code ya que el contenido textual no tenía un interlineado adecuado y todo se veía muy junto, dificultando la lectura. Se aceptó todo de la respuesta.
+
+</div>
