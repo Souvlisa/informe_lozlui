@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .markdown-content table {
-  @apply w-full border-separate border-spacing-0 my-6 text-left overflow-hidden shadow-sm rounded-2xl;
+  @apply min-w-full table-auto border-separate border-spacing-0 my-6 text-left shadow-sm rounded-2xl;
 }
 
 .markdown-content thead {

@@ -21,6 +21,7 @@ function App() {
     { key: 'responsabilidades', label: 'Responsabilidades legales', component: Responsabilidades },
     { key: 'datos', label: 'Tratamiento de datos', component: Datos },
     { key: 'conclusiones', label: 'Conclusiones', component: Conclusiones },
+    { key: 'prompts', label: 'Prompts', component: Prompts },
   ]
 
   const [active, setActive] = useState(sections[0].key)

@@ -5,10 +5,14 @@ import rehypeRaw from 'rehype-raw'
 
 export default function MarkdownRenderer({ content }) {
   return (
-    <div className="markdown-content prose prose-slate dark:prose-invert max-w-none">
-      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
-        {content}
-      </ReactMarkdown>
+    <div className="w-full">
+      <div className="overflow-x-auto">
+        <div className="markdown-content prose prose-slate dark:prose-invert max-w-none">
+          <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+            {content}
+          </ReactMarkdown>
+        </div>
+      </div>
     </div>
   )
 }
